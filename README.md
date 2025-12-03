@@ -56,7 +56,7 @@ ssh unitree@192.168.123.164
 
 G1 三维简化模型（开发文档 - 应用开发 - 获取SDK）：  
 https://support.unitree.com/home/zh/G1_developer/get_sdk  
-G1 URDF： 
+G1 URDF：  
 https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description  
 G1 URDF 版本选择：  
 https://serviceconsole.unitree.com/#/help/031305  
