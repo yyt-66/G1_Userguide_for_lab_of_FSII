@@ -65,9 +65,9 @@ https://support.unitree.com/home/zh/G1_developer/about_G1
 G1进阶版末端图纸：  
 https://oss-global-cdn.unitree.com/static/975886fe20e04283a0cbd06cd8d0f88c.zip
 
-
+1
 ## 其他支持
 宇树售后服务
 https://serviceconsole.unitree.com/index.html#/  
 文档维护和技术支持请联系（wechat）  
-+86-13958582557
++86-13958582557  
