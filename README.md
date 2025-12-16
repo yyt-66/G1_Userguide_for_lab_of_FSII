@@ -2,7 +2,7 @@
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2025-12-02 14:26:22
  * @LastEditors: yyt-66 ethanye16@outlook.com
- * @LastEditTime: 2025-12-15 19:31:28
+ * @LastEditTime: 2025-12-16 11:58:13
  * @FilePath: \Ethan_Ye_workspace\G1_Userguide_for_lab_of_FSII\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -12,7 +12,7 @@
 
 ----------
 
-**本使用手册针对课题组内部开发者使用，所有资料均来自宇树官方。  
+**本使用手册针对FSII课题组内部开发者使用，所有资料均来自宇树官方。  
 ⚠️ 本机器人型号为G1进阶版（G1-edu-U2），请各位开发者注意甄别。**
 ## 📚产品资料  
 [宇树官网 Unitree official website](https://www.unitree.com/cn/g1)
@@ -33,7 +33,7 @@
 ![alt text](./image/image-2.png)
 ## 🔗连接方式
 G1-EDU 机载标配 1 块【运控计算单元】，并且标配一块【开发计算单元】。
-【运控计算单元】为 Unitree 运动控制程序专用，不对外开放。开发者仅可使用【开发计算单元】进行二次开发。
+【运控计算单元】为 Unitree 运动控制程序专用，不对外开放。开发者仅可使用【开发计算单元】进行二次开发。⚠️推荐使用开发者自身电脑进行开发。
 在开发文档或者技术支持过程中，【运控计算单元】会被表述为PC2，相对的，【运控计算单元】一般表述为PC1。  
 **【开发计算单元】，地址为 192.168.123.164，用户名：unitree，密码：123。**  
 **【首先推荐使用开发者自身PC+PC1进行开发**
